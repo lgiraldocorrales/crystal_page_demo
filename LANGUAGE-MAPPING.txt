@@ -1,0 +1,17 @@
+/quienesSomos <-> /WhoWeAre
+/propositoyesencia <-> /PurposeAndEssence
+/historiaC/1938-1948 <-> /OurHistory/1938-1948
+/hilanderia <-> /Spinning
+/paquete <-> /FullPackage
+/unidades <-> /BusinessUnits
+/ubicacion <-> /Location
+/sostenibilidad <-> /Sustainability
+/compromisoSocial <-> /SocialCommitment
+/compromisoAmbiental <-> /EnvironmentalCommitment
+/certificaciones <-> /Certifications
+/gobiernoCorp <-> /CorporateGovernance
+/politicas <-> /Policies
+/ServicioAlCliente <-> /CustomerService
+/asiSomos <-> /ThisIsWhoWeAre
+/informesDeSostenibilidad <-> /sustainabilityReports
+/otros <-> /Others
