@@ -1,0 +1,33 @@
+Pages: 38
+Restored local links: 2548
+Broken local file links: 9
+Production Crystal navigation links remaining (non-static): 0
+Root-relative /static asset issues: 0
+Mapped pages missing language interceptor: 0
+
+Language equivalences:
+/ <-> /en: OK
+/quienesSomos <-> /WhoWeAre: OK
+/propositoyesencia <-> /PurposeAndEssence: OK
+/historiaC/1938-1948 <-> /OurHistory/1938-1948: OK
+/hilanderia <-> /Spinning: OK
+/paquete <-> /FullPackage: OK
+/unidades <-> /BusinessUnits: OK
+/ubicacion <-> /Location: OK
+/sostenibilidad <-> /Sustainability: OK
+/compromisoSocial <-> /SocialCommitment: OK
+/compromisoAmbiental <-> /EnvironmentalCommitment: OK
+/certificaciones <-> /Certifications: OK
+/gobiernoCorp <-> /CorporateGovernance: OK
+/politicas <-> /Policies: OK
+/ServicioAlCliente <-> /CustomerService: OK
+/asiSomos <-> /ThisIsWhoWeAre: OK
+/informesDeSostenibilidad <-> /sustainabilityReports: OK
+/otros <-> /Others: OK
+\nBroken:\n[('/en', '/Brands/'), ('/en', '/SpinningProducts/'), ('/en', '/Brands/'), ('/en', '/Brands/'), ('/en', '/SustainabilityReport/2024'), ('/en', '/Brands/'), ('/en', '/pqrs/'), ('/en', '/Brands/'), ('/en', '/pqrs/')]
+
+FINAL PASS AFTER EN-HOME FALLBACKS
+Broken relative local links: 0
+Crystal production navigation links: 0
+Root-relative static assets: 0
+English-home uncaptured fallbacks: Brands->marcas, SpinningProducts->Spinning, SustainabilityReport/2024->sustainabilityReports, pqrs->pqrs.
